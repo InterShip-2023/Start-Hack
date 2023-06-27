@@ -6,5 +6,5 @@
 Team Members :
 ```
 - Sowndharya A (SRC2023115)
-- Soundarrjan C (SRC2023121)
+- Soundarrajan C (SRC2023121)
 ```
